@@ -14,9 +14,13 @@ Disables wp-Typography ACF Integration.
 Disables wp-Typographys (https://wordpress.org/plugins/wp-typography/) built-in ACF integration.
 
 == Installation ==
+1. Download the latest release of this plugin as a zip here: https://github.com/sarukuku/wp-typography-disable-acf/releases/latest
+2. Upload the plugin through the 'Plugins -> Add New -> Upload Plugin' menu in WordPress
+3. Activate the plugin through the 'Plugins' menu in WordPress
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+== wp-Typography Compatibility ==
+
+This plugin is compatible with wp-Typography version 3.6.0 and later.
 
 == Changelog ==
 
