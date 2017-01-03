@@ -11,7 +11,7 @@ Disables wp-Typography ACF Integration.
 
 == Description ==
 
-Disables [wp-Typography](https://wordpress.org/plugins/wp-typography/)s built-in ACF integration.
+Disables wp-Typographys (https://wordpress.org/plugins/wp-typography/) built-in ACF integration.
 
 == Installation ==
 
