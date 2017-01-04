@@ -11,7 +11,7 @@ Disables wp-Typography ACF Integration.
 
 == Description ==
 
-Disables wp-Typographys (https://wordpress.org/plugins/wp-typography/) built-in ACF integration.
+Disables wp-Typographys (https://wordpress.org/plugins/wp-typography/) built-in Advanced Custom Fields (https://wordpress.org/plugins/advanced-custom-fields/) integration.
 
 == Installation ==
 1. Download the latest release of this plugin as a zip here: https://github.com/sarukuku/wp-typography-disable-acf/releases/latest
@@ -21,6 +21,10 @@ Disables wp-Typographys (https://wordpress.org/plugins/wp-typography/) built-in 
 == wp-Typography Compatibility ==
 
 This plugin is compatible with wp-Typography version 3.6.0 and later.
+
+== Do I need this plugin? ==
+
+If you're using ACF and wp-Typography and want to disable the automatic integration between them this plugin does it. If you're not using ACF or wp-Typography this plugin is useless.
 
 == Changelog ==
 
