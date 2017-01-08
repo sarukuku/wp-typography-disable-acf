@@ -28,5 +28,8 @@ If you're using ACF and wp-Typography and want to disable the automatic integrat
 
 == Changelog ==
 
+= 1.0.1 =
+* Improved readme.
+
 = 1.0.0 =
 * Inital release.
