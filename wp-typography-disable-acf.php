@@ -5,7 +5,7 @@
  * Description:     Disables wp-Typographys built-in Advanced Custom Fields integration.
  * Author:          Joonas Salovaara
  * Author URI:      https://github.com/sarukuku
- * Version:         1.0.0
+ * Version:         1.0.1
  *
  * @package         Wp_Typography_Disable_Acf
  */
